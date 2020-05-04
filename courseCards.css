@@ -1,0 +1,17 @@
+.cc-title {
+  background-color: grey !important;
+  text-align: center;
+  padding: 50px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.cc {
+  background-color: red;
+}
+
+#add-course-submit {
+  margin-bottom: 0px;
+  margin-top: -70px;
+  margin-left: 487px;
+}
